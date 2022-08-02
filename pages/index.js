@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bienvenido a <a href="https://nextjs.org">Next.js de microStudio!</a>
+          Bienvenido a <a href="https://nextjs.org">Next.js</a> de microStudio!
         </h1>
 
         <p className={styles.description}>
